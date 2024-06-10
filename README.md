@@ -4,4 +4,16 @@ Salut je sui @courcelles483 un dévlopeur débutant
 - 👨🏽‍🤝‍👨🏻 Je rechcher persone actuelment.
 - 📫 Pour me contacter utuliser l'adress courcelles483-dev@outlook.com
 
+Langade de promrgmation et outis 
+-Html/css
+-Java script (en cours d'aprentisage)
+-Visual Studio Code 
+-Nods.js
+
+Systéme d'explitation 
+-Windows
+-Ubuntu (linuk) 
+
+Projet 
+ACUNE ACTUELMENT  
 
