@@ -1,14 +1,11 @@
 
 ## 📚 Langages de programmation et outils
-![GitHub](https://play-lh.googleusercontent.com/7-KOmmpXxvEXeBmEiQnbb5Fsk3eDntu4S04P2eDNo5E_WlryHuTP8tvP4-WoW-G0bH5c=w240-h480-rw=white)
+![Java scrip](https://github.com/Courcelles483/Courcelles483/assets/158523284/56c29d6c-afe3-47bc-b9fd-411b3aefc64b)
+![Nood.js](https://github.com/Courcelles483/Courcelles483/assets/158523284/93fff774-e0fe-4fba-84fc-b4e64657b053)
 
-
--HTML/CSS
--JavaScript (en cours d'apprentissage) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 -Visual Studio Code
 -Node.js
-
 ## 💻 Systèmes d'exploitation
 Windows
 Ubuntu (Linux)
