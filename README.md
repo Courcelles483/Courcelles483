@@ -18,5 +18,3 @@
 
 ### 📦My Projects
 
-> [!WARNING]
-> Projects will be added later......
